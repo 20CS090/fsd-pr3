@@ -37,6 +37,6 @@ class Student2{
 s2 = new Student1(90,"Tarang","Sutaiya")
 s2.getter()
 console.log("calling setter")
-s2.firstname="Tarang R"
-//s2.set("Tarang R","Sutariya")
+
+s2.set("Tarang R","Sutariya")
 s2.getter()
